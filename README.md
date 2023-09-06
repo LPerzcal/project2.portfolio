@@ -20,8 +20,8 @@ outperforms the existing one (**Type A**) in terms of CTR and conversion rates.
 **3. Data Preprocessing (Databricks/PySpark):** Working with Data Engineers to clean and preprocess the data to handle missing values, outliers, and inconsistencies.
 Calculate derived metrics, such as **CTR** and **CR**.
 
-**4. A/B Test Setup (Python):** Working with Data Scientist to split the dataset into two groups: one for users exposed to Ad A and the other for users exposed to Ad B. Conduct statistical tests (e.g., t-test or chi-squared test) 
-to assess whether any observed differences in CTR and conversion rates are statistically significant.
+**4. A/B Test Setup (Python):** Working with Data Scientist to split the dataset into two groups: one for users exposed to **Type A** and the other for users exposed to **Type B**. Conduct statistical tests (e.g., t-test or chi-squared test) 
+to assess whether any observed differences in **CTR** and **CR** are statistically significant.
 
 **5. Data Visualization (Tableau):** Create interactive dashboards in **Tableau** to visualize key metrics and test results using visualizations such as bar charts, line graphs, and heatmaps to illustrate 
 the performance of Type A and Type B.
