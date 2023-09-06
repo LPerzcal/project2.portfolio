@@ -5,9 +5,9 @@
 
   
 ### **Project Overview**:
-The Marketing department is looking to optimize their email campaigns to increase the click-through rates (CTR) and conversion rates for their partner offers. 
-They are conducting an A/B test where one group of subscribers (Group A) receives the current email campaign, while another group (Group B) receives a new variation 
-of the email with different content and layout.
+  The Marketing department is looking to optimize their email campaigns to increase the click-through rates (CTR) and conversion rates for their partner offers. 
+  They are conducting an A/B test where one group of subscribers (Group A) receives the current email campaign, while another group (Group B) receives a new variation 
+  of the email with different content and layout.
 
 **1. Objective Definition:** 
 Collaboration with the marketing team to establish clear objectives for the A/B test. The primary goal is to assess whether the new email campaign (Type B) outperforms the existing one (Type A) 
