@@ -1,6 +1,6 @@
 ### <font style="color : darkgrey">Duration: 10 weeks</font> <br>
 **Stakeholders:** Marketing Team, Data Engineers, Data scientist. <br>
-✅ SparkSQL  ✅ Databricks ✅ PySpark  ✅ Tableau  ✅ JIRA  ✅ Microsoft Teams  ✅ Asana
+✅ SparkSQL  ✅ Databricks ✅ PySpark  ✅ Tableau  ✅ JIRA  ✅ Microsoft Teams 
 
 
   
