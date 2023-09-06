@@ -12,8 +12,8 @@
   As Senior Data Analyst my responsibility was to monitor the email campaign performance post-implementation and provide regular reports (**in Tableau**) to track the ongoing impact of the changes.
 
 **1. Objective Definition:** 
-Collaborate with the marketing team to establish clear objectives for the A/B test. The primary goal was to assess whether the new email campaign (Type B) 
-outperforms the existing one (Type A) in terms of CTR and conversion rates.
+Collaborate with the marketing team to establish clear objectives for the A/B test. The primary goal was to assess whether the new email campaign (**Type B**) 
+outperforms the existing one (**Type A**) in terms of CTR and conversion rates.
 
 **2. Data Retrieval (Databicks/SparkSQL):** Gather historical data ensuring that email engagement data, conversion data, and other relevant metrics are properly tracked and segmented for **both Types**.
 
