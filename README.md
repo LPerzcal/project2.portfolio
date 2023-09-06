@@ -9,7 +9,7 @@
   They are conducting an A/B test where one group of subscribers (Type A) receives the current email campaign, while another group (Type B) receives a new variation 
   of the email with different content and layout.
   
-  As Senior Data Analyst my responsibility was to monitor the email campaign performance post-implementation and provide regular reports (in Tableau) to track the ongoing impact of the changes.
+  As Senior Data Analyst my responsibility was to monitor the email campaign performance post-implementation and provide regular reports (**in Tableau**) to track the ongoing impact of the changes.
 
 **1. Objective Definition:** 
 Collaborate with the marketing team to establish clear objectives for the A/B test. The primary goal was to assess whether the new email campaign (Type B) 
