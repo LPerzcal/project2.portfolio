@@ -1,37 +1,36 @@
-### <font style="color : darkgrey">Duration: 6 weeks</font> <br>
-**Stakeholders:** Data Engineers, Product Manager, Account Managers, Data Analyst, other relevant departents. <br>
-✅ SQL  ✅ Databricks  ✅ Tableau  ✅ JIRA  ✅ Microsoft Teams  ✅ Asana
+### <font style="color : darkgrey">Duration: 10 weeks</font> <br>
+**Stakeholders:** Marketing Team, Data Engineers, Data scientist. <br>
+✅ SparkSQL  ✅ Databricks ✅ PySpark  ✅ Tableau  ✅ JIRA  ✅ Microsoft Teams  ✅ Asana
 
 
   
 ### **Project Overview**:
-  The "Analysis of Customer Retention" project is aimed at understanding and improving customer retention rates for a business. 
-  As customer retention is a critical factor in sustaining growth and profitability, this project focuses on leveraging data-driven insights 
-  to identify trends, patterns, and potential drivers of customer churn. The analysis will be conducted in collaboration with cross-functional teams, 
-  including data engineers, product managers and account managers, and will utilize tools like **SQL**, **Databricks**, and **Tableau** as visualization tool.
+The Marketing department is looking to optimize their email campaigns to increase the click-through rates (CTR) and conversion rates for their partner offers. 
+They are conducting an A/B test where one group of subscribers (Group A) receives the current email campaign, while another group (Group B) receives a new variation 
+of the email with different content and layout.
 
-**1. Data Gathering and Preparation:** 
-Define project scope, objectives, and deliverables. Identify stakeholders. Set up communication channels (meetings, emails, collaboration tools). 
-Collaborate with data engineers to collect relevant customer data from databases using SQL. Clean, transform, and preprocess the data to ensure accuracy 
-and consistency.
+**1. Objective Definition:** 
+Collaboration with the marketing team to establish clear objectives for the A/B test. The primary goal is to assess whether the new email campaign (Type B) outperforms the existing one (Type A) 
+in terms of CTR and conversion rates.
 
+**2. Hypothesis Development::** Work with affiliate marketing team leaders to formulate hypotheses related to the changes in the email campaign. For example, "We hypothesize that the new email 
+content in Type B will lead to a higher CTR compared to the existing content in Type A."
 
-**2. Cohort Analysis:** Utilize Databricks to perform cohort analysis, grouping customers based on common characteristics or time periods. Calculate retention rates for each cohort 
-to identify trends over time.
+**3. Data Retrieval (Databicks/SparkSQL):** Query our main database to retrieve relevant data, including user interactions with the ads (impressions, clicks), conversion data, and information 
+about the affiliate links associated with each Type.
 
-**3. Visualization and Dashboard Creation:** Create interactive visualizations and dashboards in Tableau to present retention metrics, cohort performance, and potential churn factors. The visualizations 
-will make complex data insights more accessible to stakeholders.
+**4. Data Preprocessing (Databricks/PySpark):** Working with Data Engineers to clean and preprocess the data to handle missing values, outliers, and inconsistencies.
+Calculate derived metrics, such as CTR (clicks/impressions) and conversion rate (conversions/clicks)
 
-**4. Insight Generation:** Analyze the visualized data to extract meaningful insights about customer retention trends, including identifying periods of high churn and potential influencing 
-factors.
+**5. A/B Test Setup (Python):** Split the dataset into two groups: one for users exposed to Ad A and the other for users exposed to Ad B. Conduct statistical tests (e.g., t-test or chi-squared test) 
+to assess whether any observed differences in CTR and conversion rates are statistically significant.
 
-**5. Collaboration:** Collaborate with product managers and other stakeholders to align the analysis with business goals. Discuss findings, implications, and potential strategies for 
-improving customer retention.
+**6. Data Visualization (Tableau):** Create interactive dashboards in Tableau to visualize key metrics and test results using visualizations such as bar charts, line graphs, and heatmaps to illustrate 
+the performance of Type A and Type B.
 
-**6. Recommendations:** Based on insights derived from the analysis, develop actionable recommendations to enhance customer retention. These recommendations will guide the formulation 
-of strategies to reduce churn rates.
+**7. Data Automation (Databricks):** Set up data pipelines and automation processes in Databricks to streamline data extraction, preprocessing, and analysis for future A/B tests.
 
-**7. Implementation and Monitoring:** Work with cross-functional teams to implement retention-improvement strategies. Set up monitoring mechanisms to track the impact of these strategies on customer retention.
+**8. Reporting and Insights (Tableau):** Provide actionable insights and recommendations based on the data analysis to optimize future ad campaigns.
 
 
 
